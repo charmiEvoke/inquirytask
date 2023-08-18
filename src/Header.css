@@ -1,0 +1,18 @@
+header {
+    height: 55px;
+    padding: 1px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 10px;
+    position: fixed;
+    top: 0;
+     width:  100%;
+  }
+  .homeLink{
+    color: white;
+    float: left;
+    font-size: 25px;
+   cursor:pointer
+}
+.badgeCss{float:right;top: 12px;right:21px;cursor: pointer;}

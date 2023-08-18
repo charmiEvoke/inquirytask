@@ -1,0 +1,21 @@
+.enquiryContainer{
+    background-image: url(https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.gridContainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+   
+    padding-top: 200px;
+
+   
+}
+.labelCss{
+    font-weight: 800;
+    background: darkcyan;
+    color: navajowhite;
+    padding: 2px;
+}
